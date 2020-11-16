@@ -13,9 +13,9 @@ def make_chart(idx):
 
     df2 = df.loc[idx]
     testname = df2[df2.index[0]]
-    index = df2.index[1:length]
+    index = df2.index[1:]
     data = [df2[i] for i in index]
-    colorlist =  ["tab:blue" if i % 2 == 0 else "tab:orange" for i in range(length)]
+    colorlist = ["tab:blue" if i % 2 == 0 else "tab:orange" for i in range(len(data))]
     
     fig = plt.figure(figsize=(10, 2.5), dpi=100)
 
