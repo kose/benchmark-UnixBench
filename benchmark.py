@@ -15,10 +15,11 @@ def make_chart(idx):
     testname = df2[df2.index[0]]
     index = df2.index[1:length]
     data = [df2[i] for i in index]
+    colorlist =  ["tab:blue" if i % 2 == 0 else "tab:orange" for i in range(length)]
+    
+    fig = plt.figure(figsize=(10, 2.5), dpi=100)
 
-    fig = plt.figure(figsize=(10, 2.5), dpi=50)
-
-    plt.barh(index, data)
+    plt.barh(index, data, color=colorlist)
     plt.grid(axis='x')
     plt.title(testname)
     plt.subplots_adjust(left=0.24, right=0.98)
