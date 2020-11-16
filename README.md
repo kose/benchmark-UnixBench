@@ -1,9 +1,9 @@
 # Unix Bench
 
-- [Raspberry Pi 3B](raspi3B-2020-11-15-01.html)
-- [Mac mini 2018](mini2018.local-2020-11-15-01.html)
-- [MacBook Pro 2018](MBP2018.local-2020-11-16-01.html)
-- [NUC10i5](nuc10i5-2020-11-15-01.html)
+- [Raspberry Pi 3B](https://htmlpreview.github.io/?https://github.com/kose/UnixBench/blob/main/raspi3B-2020-11-15-01.html)
+- [Mac mini 2018](https://htmlpreview.github.io/?https://github.com/kose/UnixBench/blob/main/mini2018.local-2020-11-15-01.html)
+- [MacBook Pro 2018](https://htmlpreview.github.io/?https://github.com/kose/UnixBench/blob/main/MBP2018.local-2020-11-16-01.html)
+- [NUC10i5](https://htmlpreview.github.io/?https://github.com/kose/UnixBench/blob/main/nuc10i5-2020-11-15-01.html)
 
 ![table](images/table.png)
 ![0](images/0.png)
