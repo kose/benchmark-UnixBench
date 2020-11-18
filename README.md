@@ -23,7 +23,7 @@
 
 ## TODO
 
-Raspberry Pi 3B vs 4B の比較は、SDメモリカードを同一にして再計測すべき！
+Raspberry Pi 3B vs 4B の比較は、SDメモリカードを同一にして再計測！！
 
 ## tools
 
