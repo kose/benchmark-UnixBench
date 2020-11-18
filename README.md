@@ -1,6 +1,7 @@
 # Unix Bench
 
 - [Raspberry Pi 3B](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/raspi3B-2020-11-15-01.html) : ARM Cortex-A53, 4コア, 1.2GHz
+- [Raspberry Pi 4B](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/raspi4B-2020-11-18-01.html) : ARM Cortex-A72, 4コア, 1.5GHz
 - [Mac mini 2018](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/mini2018.local-2020-11-15-01.html) : Core i5-8500B, 6コア, 3.00GHz
 - [MacBook Pro 2018](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/MBP2018.local-2020-11-16-01.html) : Core i5-8259, 8コア, 2.30GHz
 - [NUC10i5](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/nuc10i5-2020-11-15-01.html) : Core i5-10210U, 8コア, 1.60GHz
@@ -19,6 +20,10 @@
 ![10](images/10.png)
 ![11](images/11.png)
 ![12](images/12.png)
+
+## TODO
+
+Raspberry Pi 3B vs 4B の比較は、SDメモリカードを同一にして再計測すべき！
 
 ## tools
 
