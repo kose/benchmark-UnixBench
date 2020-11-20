@@ -21,11 +21,11 @@
 ![11](images/11.png)
 ![12](images/12.png)
 
-## TODO
-
-Raspberry Pi 3B vs 4B の比較は、SDメモリカードを同一にして再計測！！
-
 ## tools
 
 - [byte-unixbench](https://github.com/kdlucas/byte-unixbench)
+
+## environment
+
+macOS Big Sur, Ubuntu 20.10, Raspberry Pi OS 10.6, SD Card: SanDisk Extreme 64GB V30
 
