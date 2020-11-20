@@ -21,7 +21,7 @@ def make_chart(idx):
     single = [df2[i] for i  in range(0, cols, 2)]
     many = [df2[i] for i  in range(1, cols, 2)]
 	
-    fig = plt.figure(figsize=(10, 2.5))
+    fig = plt.figure(figsize=(10, 3.2))
 	
     bar_width = 0.45
     x = np.arange(len(index))
@@ -30,7 +30,7 @@ def make_chart(idx):
     plt.barh(x - bar_width/2, single, bar_width, color="tab:blue", label="single core")
     plt.barh(x + bar_width/2, many, bar_width, color="tab:orange", label="many core")
     plt.legend()
-    plt.subplots_adjust(left=0.16, right=0.98)
+    plt.subplots_adjust(left=0.25, right=0.98)
     plt.gca().invert_yaxis() # 上下並びを逆順に
     plt.yticks(x, index)
     plt.grid(axis='x')
