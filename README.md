@@ -1,9 +1,9 @@
 # Unix Bench
 
-- [MacBook 2020 Air](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBA2020.local-2022-04-08-01.html): M1 4+4コア, MEM:8GB, SSD:512GB
-- [MacBook 2021 Pro](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBP2021.local-2022-04-08-03.html): M1 Pro 8+2コア, MEM:16GB, SSD:1TB
-- [MacBook 2021 Pro, Docker Ubuntu 21.10 aarch64](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBP2021-aarch64-2022-04-08-01.html): M1 Pro 8+2コア, MEM:16GB, SSD:1TB
-- [MacBook 2021 Pro, Docker Ubuntu 21.10 x86_64](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBP2021-x86_64-2022-04-08-01.html): M1 Pro 8+2コア, MEM:16GB, SSD:1TB
+- [MacBook Air 2020](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBA2020.local-2022-04-08-01.html): M1 4+4コア, MEM:8GB, SSD:512GB
+- [MacBook Pro 2021](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBP2021.local-2022-04-08-03.html): M1 Pro 8+2コア, MEM:16GB, SSD:1TB
+- [MacBook Pro 2021, Docker Ubuntu 21.10 aarch64](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBP2021-aarch64-2022-04-08-01.html): M1 Pro 8+2コア, MEM:16GB, SSD:1TB
+- [MacBook Pro 2021, Docker Ubuntu 21.10 x86_64](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/MBP2021-x86_64-2022-04-08-01.html): M1 Pro 8+2コア, MEM:16GB, SSD:1TB
 - [Mac mini 2018](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/mini2019.local-2022-04-08-01.html): Core i5-8500B, 6コア 3.00GHz, MEM:16GB, SSD:1TB
 - [Mac mini 2018, Docker Ubuntu 21.10 aarch64](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/mini2019-aarch64-2022-04-08-01.html): Core i5-8500B, 6コア 3.00GHz, MEM:16GB, SSD:1TB
 - [Mac mini 2018, Docker Ubuntu 21.10 x86_64](https://htmlpreview.github.io/?https://github.com/kose/benchmark-UnixBench/blob/main/result/mini2019-x86_64-2022-04-08-01.html): Core i5-8500B, 6コア 3.00GHz, MEM:16GB, SSD:1TB
